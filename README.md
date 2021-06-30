@@ -1,5 +1,5 @@
 # Bookazon App
-> An API that allows a bookstore to manage its product listing database, and allows a bookstore customer to view the inventory based on Title, Author, or Publisher information.
+> An API that allows a bookstore to manage its product listing database, and allows a bookstore customer to view the inventory based on Title, Author, or Publisher information. Cloned from original working Repo @ https://github.com/redeyedrabbit/Bookazon 
 
 ## Table of Contents
 * [Database](#database)
